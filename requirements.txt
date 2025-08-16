@@ -1,0 +1,5 @@
+openai==1.99.9
+tqdm==4.67.1
+datasets==4.0.0 
+hf-transfer==0.1.9
+hf-xet==1.1.7
